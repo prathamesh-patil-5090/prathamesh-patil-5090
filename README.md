@@ -628,8 +628,8 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 <table align="center">
   <tr>
     <td colspan="3" align="center">
-      <a href="mailto:prathamesh-patil-5090h3262@gmail.com" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sigmail&subtitle=prathamesh-patil-5090h3262@gmail.com&size=square" alt="Kenan Gain" style="margin: 10px;">
+      <a href="mailto:prathampatil7798@gmail.com" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sigmail&subtitle=prathampatil7798h3262@gmail.com&size=square" alt="Kenan Gain" style="margin: 10px;">
       </a>
     </td>
     <td align="center">
