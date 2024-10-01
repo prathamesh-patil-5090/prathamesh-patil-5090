@@ -2,7 +2,7 @@
 
 
 
-<h1 align="center">Hello &nbsp;<a href="https://avipatilweb.ml/"><img src="https://raw.githubusercontent.com/avipatilpro/avipatilpro/master/Hi.gif" width="48"></a> , I'm RAFIK SHAH</h1>
+<h1 align="center">Hello &nbsp;<a href="https://avipatilweb.ml/"><img src="https://raw.githubusercontent.com/avipatilpro/avipatilpro/master/Hi.gif" width="48"></a> , I'm PRATHAMESH PATIL</h1>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=Computer+Engineer;Full-Stack+Developer;Cloud+Engineer;AI+Engineer;YouTuber;Streamer;Editor;" alt="Typing SVG" />
@@ -232,7 +232,7 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 
 <h3 align="center">Leetcode Stats</h3>
 <p align="center">
-  <img align="center" src="https://leetcard.jacoblin.cool/prathamesh-patil-5090h2272?border=0&radius=20"/>
+  <img align="center" src="https://leetcard.jacoblin.cool/Prathamesh_patil_5090"/>
 </p>
 
 
