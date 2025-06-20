@@ -84,7 +84,7 @@ Full-stack developer and AI engineer passionate about building innovative soluti
 
 <div align="center">
   <h4>@Prathamesh_patil_5090</h4>
-  <img src="https://leetcard.jacoblin.cool/Prathamesh_patil_5090?theme=dark&font=Fira%20Code&ext=heatmap" width="98%" alt="LeetCode stats"/>
+  <img src="https://leetcard.jacoblin.cool/Prathamesh_patil_5090" width="98%" alt="LeetCode stats"/>
 </div>
 
 ## 📫 Let's Connect
