@@ -72,7 +72,7 @@ Full-stack developer and AI engineer passionate about building innovative soluti
 ## 💻 Most Used Languages
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathamesh-patil-5090&layout=pie&theme=radical&hide_border=true&langs_count=8" width="99%" height="1000" alt="Top Languages Pie Chart"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathamesh-patil-5090&layout=pie&theme=radical&hide_border=true&langs_count=8" width="99%" height="600" alt="Top Languages Pie Chart"/>
 </div>
 
 ## 👨‍💻 LeetCode Stats
