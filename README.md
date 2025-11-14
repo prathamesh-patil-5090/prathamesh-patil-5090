@@ -60,14 +60,6 @@ Full-stack developer and AI engineer passionate about building innovative soluti
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 </details>
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prathamesh-patil-5090&theme=radical&hide_border=true" width="49%" alt="streak stats"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=prathamesh-patil-5090&show_icons=true&theme=radical&hide_border=true" width="49%" alt="GitHub stats"/>
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prathamesh-patil-5090&theme=radical&hide_border=true&custom_title=Contribution%20Graph" width="98%" alt="Activity Graph"/>
-</div>
 
 ## 💻 Most Used Languages
 
