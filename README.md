@@ -69,15 +69,11 @@ Full-stack developer and AI engineer passionate about building innovative soluti
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=prathamesh-patil-5090&theme=radical&hide_border=true&custom_title=Contribution%20Graph" width="98%" alt="Activity Graph"/>
 </div>
 
-## 🌟 Featured Projects
+## 💻 Most Used Languages
 
 <div align="center">
-  <a href="https://github.com/prathamesh-patil-5090/fast-gemini-nano">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=prathamesh-patil-5090&repo=fast-gemini-nano&theme=radical&hide_border=true" />
-  </a>
-  <a href="https://github.com/prathamesh-patil-5090/Weather-3d-ai-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=prathamesh-patil-5090&repo=Weather-3d-ai-app&theme=radical&hide_border=true" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathamesh-patil-5090&layout=pie&theme=radical&hide_border=true&langs_count=8" width="49%" alt="Top Languages Pie Chart"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathamesh-patil-5090&layout=donut&theme=radical&hide_border=true&langs_count=8" width="49%" alt="Top Languages Donut Chart"/>
 </div>
 
 ## 👨‍💻 LeetCode Stats
