@@ -60,7 +60,6 @@ Full-stack developer and AI engineer passionate about building innovative soluti
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 </details>
 
-
 ## 📈 GitHub Stats
 
 <div align="center">
@@ -70,11 +69,10 @@ Full-stack developer and AI engineer passionate about building innovative soluti
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=prathamesh-patil-5090&theme=radical&hide_border=true&custom_title=Contribution%20Graph" width="98%" alt="Activity Graph"/>
 </div>
 
-
 ## 💻 Most Used Languages
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathamesh-patil-5090&layout=pie&theme=radical&hide_border=true&langs_count=8" width="99%" height="50%" alt="Top Languages Pie Chart"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathamesh-patil-5090&layout=pie&theme=radical&hide_border=true&langs_count=8" width="99%" height="200" alt="Top Languages Pie Chart"/>
 </div>
 
 ## 👨‍💻 LeetCode Stats
